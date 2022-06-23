@@ -189,7 +189,7 @@ val head +: tail = List(1,2,3)
 val head1 +: head2 +: tail = Vector(1,2,3)
 //head1: Int = 1
 //head2: Int = 2
-//tail: Vector[Int] = Vector(2,3)
+//tail: Vector[Int] = Vector(3)
 
 val p = Person("Dean", 29, Address("1"))
 if (p == Person("Dean", 29, Address("1"))) "yes" else "no"
