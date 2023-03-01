@@ -148,3 +148,4 @@ print_role(human);
 - [https://www.baeldung.com/java-reflection](https://www.baeldung.com/java-reflection)
 - [https://www.youtube.com/watch?v=0b0hrd6k1Zs](https://www.youtube.com/watch?v=0b0hrd6k1Zs)
 - [https://tech.devsisters.com/posts/programming-languages-3-metaprogramming/](https://tech.devsisters.com/posts/programming-languages-3-metaprogramming/)
+- https://www.baeldung.com/scala/scala2-macros
